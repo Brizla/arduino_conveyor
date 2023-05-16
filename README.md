@@ -1,18 +1,24 @@
 # arduino_conveyor
 
-Description
+
 Arduino/A4988 stepper controller with speed control and object proximity detection
 
-Circuit
-<insert schematic here>
+![from CB11.10.004 lab](https://github.com/Brizla/arduino_conveyor/blob/main/conveyor.jpg?raw=true)
+
+
 ![alt text](https://github.com/Brizla/arduino_conveyor/blob/[main]/schematic.jpg?raw=true)
-pin 7 to e18_sensor black wire
-pin 6 to STEP A4988
-pin 5 to DIR A4988
-pin 4 to EN A4988
+
+ 
+ D7 to e18_sensor black wire
+
+ D6 to STEP A4988
+
+ D5 to DIR A4988
+
+ D4 to EN A4988
 
 
-CREDIT
+**Credit**
  
 https://forum.arduino.cc/t/stepper-motor-a4988-potentiometer-speed-control/654061/2
   

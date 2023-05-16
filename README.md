@@ -6,8 +6,9 @@ Arduino/A4988 stepper controller with speed control and object proximity detecti
 ![from CB11.10.004 lab](https://github.com/Brizla/arduino_conveyor/blob/main/conveyor.jpg?raw=true)
 
 
-![alt text](https://github.com/Brizla/arduino_conveyor/blob/[main]/schematic.jpg?raw=true)
+![how to wire it up](https://github.com/Brizla/arduino_conveyor/blob/main/schematic.jpg?raw=true)
 
+ **Arduino Nano pinout**
  
  D7 to e18_sensor black wire
 

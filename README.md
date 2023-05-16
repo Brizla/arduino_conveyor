@@ -10,6 +10,8 @@ Arduino/A4988 stepper controller with speed control and object proximity detecti
 
  **Arduino Nano pinout**
  
+ A0 to 100k potentiometer
+ 
  D7 to e18_sensor black wire
 
  D6 to STEP A4988

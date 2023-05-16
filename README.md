@@ -5,7 +5,7 @@ Arduino/A4988 stepper controller with speed control and object proximity detecti
 
 Circuit
 <insert schematic here>
-![alt text](https://github.com/Brizla/arduino_conveyor/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/Brizla/arduino_conveyor/blob/[main]/schematic.jpg?raw=true)
 pin 7 to e18_sensor black wire
 pin 6 to STEP A4988
 pin 5 to DIR A4988

@@ -3,6 +3,12 @@
 
 Arduino/A4988 stepper controller with speed control and object proximity detection
 
+1) Compile and upload stepperpot_speed_control.ino to an Arduino
+2) find the 2 pairs of stepper motor coils via your preferred method
+3) build the circuit described below and attach the motor and power
+4) adjust the speed to suit the task, reverse the coil pairs if the conveyor moves the wrong way!
+5) adjust the position of the proximity sensor to detect the item and stop conveyor motion
+
 ![from CB11.10.004 lab](https://github.com/Brizla/arduino_conveyor/blob/main/conveyor.jpg?raw=true)
 
 
